@@ -1,5 +1,3 @@
-# QTIM — REST API
-
 NestJS REST API с JWT-аутентификацией, CRUD статей, PostgreSQL и Redis-кэшированием.
 
 ## Стек
