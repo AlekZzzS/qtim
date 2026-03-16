@@ -12,7 +12,7 @@ NestJS REST API с JWT-аутентификацией, CRUD статей, Postgr
 
 ## Запуск
 
-### Docker (рекомендуется)
+### Docker
 
 ```bash
 docker-compose up --build
